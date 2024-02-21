@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Service Package</name>
+   <tag></tag>
+   <elementGuidId>7a3cea42-9cb9-41e8-9bc9-99f689c48a82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-sub-menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e576b1e9-502a-4157-879e-126af2573d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-sub-menu</value>
+      <webElementGuid>9d9a914f-6e9b-4127-9acb-ccc9d8852dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/service-packages</value>
+      <webElementGuid>d9af0993-cf87-4bcf-9e71-1c8e5ab7f7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Service Package</value>
+      <webElementGuid>18c38765-5f38-4a58-a800-71a4931505cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[1]/div[@class=&quot;nav-cont&quot;]/div[@class=&quot;nav-dropdown&quot;]/a[@class=&quot;nav-sub-menu&quot;]</value>
+      <webElementGuid>85206e0f-cd49-43ee-ba15-05b056a8c064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>a2bb8aba-af96-45fd-845b-4cc39336a16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Service Package')]</value>
+      <webElementGuid>a384607d-3e63-43bd-822b-3c30f60a8ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Services'])[1]/following::a[1]</value>
+      <webElementGuid>aee4c13d-6d3e-46ff-8a2a-02f74642f0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team On Demand'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b3b5672-753e-49e7-9803-20535d451b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industry Experts On Call'])[1]/preceding::a[2]</value>
+      <webElementGuid>d7842b16-5b22-431d-a063-b31824bbfd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Service Package']/parent::*</value>
+      <webElementGuid>e202d683-2f6d-44d2-bbbe-5ce1001972bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/service-packages')]</value>
+      <webElementGuid>e592df50-c19d-49cc-a604-90b96a4b34eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>550a122e-4c00-4689-afa2-48873a9ce5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/service-packages' and (text() = 'Service Package' or . = 'Service Package')]</value>
+      <webElementGuid>dead8280-70f6-4068-87db-4a7b8817db43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

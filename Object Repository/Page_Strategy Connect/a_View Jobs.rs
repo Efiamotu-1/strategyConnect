@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Jobs</name>
+   <tag></tag>
+   <elementGuidId>829b2a73-bfff-4c0d-b092-7f0a950e00ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cursor-pointer.border-b.pb-3.text-gray-500.border-primary-600.text-primary-600</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09ee9402-b035-40f6-ba4b-ffcddd78af2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border-b pb-3 text-gray-500 border-primary-600 text-primary-600</value>
+      <webElementGuid>7b98c222-eac5-4be9-bd4b-73d285dece43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/users/jobs</value>
+      <webElementGuid>25984fa9-ca3e-4d65-8f1d-8ae1d58dbbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Jobs</value>
+      <webElementGuid>a177d502-bc78-46cc-8999-89024303c8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex flex-col border-b border-gray-200 bg-white pt-4 lg:px-5 lg:pl-3&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;hidden items-end gap-4 self-stretch pt-4 sm:flex md:gap-10 lg:gap-12&quot;]/a[@class=&quot;cursor-pointer border-b pb-3 text-gray-500 border-primary-600 text-primary-600&quot;]</value>
+      <webElementGuid>4d5e024c-0eb7-427f-8022-5b04481b8334</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/a</value>
+      <webElementGuid>cb0f36bf-5b4f-4a54-9545-fedf5ddd1c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Jobs')]</value>
+      <webElementGuid>df0fcdf0-905b-4a36-9883-232170972c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StrategyConnect'])[1]/following::a[1]</value>
+      <webElementGuid>9f17cab5-3b00-43f3-ad50-822bdfe624dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/preceding::a[1]</value>
+      <webElementGuid>015626c6-2306-48e0-b916-c6efb6bf5e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[2]</value>
+      <webElementGuid>36b6816c-2fe3-4cfc-872f-a0c60aef80d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Jobs']/parent::*</value>
+      <webElementGuid>a4d4707d-173a-44e1-b500-317d1d882b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/users/jobs')])[2]</value>
+      <webElementGuid>73b9f6e5-c280-4eb0-a6c1-59834613614e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/a</value>
+      <webElementGuid>99eec76c-0a16-4b16-b4b6-b975fdc92666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/users/jobs' and (text() = 'View Jobs' or . = 'View Jobs')]</value>
+      <webElementGuid>dac031dc-0658-418f-9903-816d6713d87e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

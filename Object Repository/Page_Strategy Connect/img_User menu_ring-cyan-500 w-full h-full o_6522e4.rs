@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_User menu_ring-cyan-500 w-full h-full o_6522e4</name>
+   <tag></tag>
+   <elementGuidId>95a3fabe-0f53-4477-a25b-121ccb5cdbe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ring-cyan-500.w-full.h-full.object-cover.ring-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div/span/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>89457756-7c29-4ae5-a036-baedf4887b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ring-cyan-500 w-full h-full object-cover ring-2</value>
+      <webElementGuid>5f15d335-5da3-43ee-b1c7-6ad67d8ebbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>d21a8b3c-2a7e-42a1-96a3-2c881415fcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/UserProfile.6400b009.webp</value>
+      <webElementGuid>1aa4d0e5-a0ad-4cf3-bd20-6ecabd02ccae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex flex-col border-b border-gray-200 bg-white pt-4 lg:px-5 lg:pl-3&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex items-center gap-5 pr-4 sm:gap-7 lg:gap-3&quot;]/div[1]/span[@class=&quot;cursor-pointer&quot;]/div[@class=&quot;h-8 w-8 rounded-full overflow-hidden&quot;]/img[@class=&quot;ring-cyan-500 w-full h-full object-cover ring-2&quot;]</value>
+      <webElementGuid>626f0def-de73-4c5c-9e8a-cb11bccb7c4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div/span/div/img</value>
+      <webElementGuid>5a9a2732-0b07-4fc8-bd01-9c812ac2260c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>dce7b234-b775-45af-a2c5-97389ff33983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/UserProfile.6400b009.webp']</value>
+      <webElementGuid>1423205e-7741-4c14-976f-964deaed6872</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

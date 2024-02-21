@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Industry Experts On Call</name>
+   <tag></tag>
+   <elementGuidId>958c08ba-ce17-4c39-8ea6-1169e8cc41aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee9bc7f6-6eb2-4f44-a480-77c7e00698d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-sub-menu</value>
+      <webElementGuid>54848a3e-162d-47b5-9835-9ef7d110f307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/industry-experts</value>
+      <webElementGuid>0f5f96c5-5262-4f56-aae3-e68e8b42000f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Industry Experts On Call</value>
+      <webElementGuid>423e65c7-1d6d-4fae-9957-9bc85c47bd05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[1]/div[@class=&quot;nav-cont&quot;]/div[@class=&quot;nav-dropdown&quot;]/a[@class=&quot;nav-sub-menu&quot;]</value>
+      <webElementGuid>06a43fda-c3cc-4543-9a2b-034035b64354</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a[3]</value>
+      <webElementGuid>97c4b984-94ae-4bff-beb3-acfb8fc0160d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Industry Experts On Call')]</value>
+      <webElementGuid>f0df51f2-381e-4c6b-a381-1f819056d593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team On Demand'])[1]/following::a[1]</value>
+      <webElementGuid>6b541624-db60-462e-8cea-9b72c0cefbed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Package'])[1]/following::a[2]</value>
+      <webElementGuid>85867e21-b61d-4952-aa05-2b76b7deb387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[1]</value>
+      <webElementGuid>f520fe0c-6150-4520-9a8a-913b3f161b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join As Consultant'])[1]/preceding::a[2]</value>
+      <webElementGuid>75ec6e07-b10a-4087-a64d-cace01f2f1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Industry Experts On Call']/parent::*</value>
+      <webElementGuid>cd830244-bcc7-48fd-9d61-99b2907e4b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/industry-experts')]</value>
+      <webElementGuid>ca45ebf2-1091-47e9-9c15-d335a3537d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[3]</value>
+      <webElementGuid>c02c763e-e033-479e-86d1-e5d1032bf9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/industry-experts' and (text() = 'Industry Experts On Call' or . = 'Industry Experts On Call')]</value>
+      <webElementGuid>c26bd1a9-53f9-4727-9745-9eba019b0b06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

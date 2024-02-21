@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Resources</name>
+   <tag></tag>
+   <elementGuidId>3b0ce885-f565-4f75-b705-5dbfff353e06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.nav-cont > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div[2]/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>95417240-c487-428f-833c-c3c38d1b5239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resources</value>
+      <webElementGuid>ecb5992b-b8a2-4aca-b682-0f514128d8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[2]/div[@class=&quot;nav-cont&quot;]/h5[1]</value>
+      <webElementGuid>e4a0f26b-ecd1-46e8-8e8a-add2abaac6ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div[2]/div/h5</value>
+      <webElementGuid>daa177f7-41a1-4ee7-904b-a1e590c085a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join As Consultant'])[1]/following::h5[1]</value>
+      <webElementGuid>d56fae13-566e-4b26-bded-e6c5437452f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::h5[1]</value>
+      <webElementGuid>bf9100dd-baf4-4583-8220-7c38c25fcb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Studies'])[1]/preceding::h5[1]</value>
+      <webElementGuid>862e9ac1-585e-4d6f-854e-08936c16cd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::h5[1]</value>
+      <webElementGuid>8faa0b56-4732-43dc-8f86-2c6691745c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resources']/parent::*</value>
+      <webElementGuid>f37999ae-0262-45f7-b9ad-237f2ad5069c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h5</value>
+      <webElementGuid>5a1ba7fe-adef-4a1f-bea4-26768facdaa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Resources' or . = 'Resources')]</value>
+      <webElementGuid>b3ec871a-db39-4a99-9522-d79fe2257cbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

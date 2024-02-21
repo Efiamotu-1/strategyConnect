@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Case Studies</name>
+   <tag></tag>
+   <elementGuidId>2d6f1d3b-c561-4fc3-b4f6-89e4dbfa1999</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-sub-menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68635f48-977e-4d7f-9d00-b1b90c9e7b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-sub-menu</value>
+      <webElementGuid>402224f1-eb94-4ee3-888c-256ff82382b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/case-studies</value>
+      <webElementGuid>53078bd9-4fd2-435e-a221-cc184f0b86a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Studies</value>
+      <webElementGuid>6cbc1d2b-04da-4424-9cea-f5b1de127db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[1]/div[@class=&quot;nav-cont&quot;]/div[@class=&quot;nav-dropdown&quot;]/a[@class=&quot;nav-sub-menu&quot;]</value>
+      <webElementGuid>6ea21fc1-26e8-4a07-a2d2-ff6f4c2d055a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>aa401f13-ac18-4bde-b6d5-3200fe2966b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Case Studies')]</value>
+      <webElementGuid>52877835-068f-488a-9791-1707f7465eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::a[1]</value>
+      <webElementGuid>64bc0124-be6d-40dc-babd-d3af54b10096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunities'])[1]/following::a[1]</value>
+      <webElementGuid>28d43abe-8bf5-487a-96e1-4aba6e44213e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onboard Talent'])[1]/preceding::a[1]</value>
+      <webElementGuid>b06f5f53-69dd-47e3-bdfa-7847508b2bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[2]</value>
+      <webElementGuid>96ebd7d4-4ab6-4860-8ba9-5936c90a2edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Studies']/parent::*</value>
+      <webElementGuid>77123a3d-0d47-44e9-b5ab-9bd20e671c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/case-studies')]</value>
+      <webElementGuid>d9bafcaa-7540-409b-9f72-5e54ee7fbad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>bcf095a2-b574-48e6-b4e9-650038621706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/case-studies' and (text() = 'Case Studies' or . = 'Case Studies')]</value>
+      <webElementGuid>0ea92733-9bef-4a09-82bb-ed3beb26aa4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

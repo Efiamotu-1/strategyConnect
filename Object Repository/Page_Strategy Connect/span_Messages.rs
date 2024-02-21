@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Messages</name>
+   <tag></tag>
+   <elementGuidId>52f489f1-26c5-457b-aa2c-7032e3b41c44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.gap-2 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/a[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5dccb375-796c-4f04-8dae-06240d01e001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Messages</value>
+      <webElementGuid>30eb5d5b-ea2d-423a-ae8d-46a501e56f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex flex-col border-b border-gray-200 bg-white pt-4 lg:px-5 lg:pl-3&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;hidden items-end gap-4 self-stretch pt-4 sm:flex md:gap-10 lg:gap-12&quot;]/a[@class=&quot;cursor-pointer border-b pb-3 text-gray-500 border-gray-50 text-gray-500&quot;]/div[@class=&quot;flex gap-2&quot;]/span[1]</value>
+      <webElementGuid>c97497cc-e0eb-43a0-8570-8c3314e7ae33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/a[2]/div/span</value>
+      <webElementGuid>5514a65d-8a19-42e2-b6f8-1cc655c96987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Jobs'])[1]/following::span[1]</value>
+      <webElementGuid>27ab76f3-1342-46f7-88fa-9235752ae109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StrategyConnect'])[1]/following::span[1]</value>
+      <webElementGuid>7ffb9916-3048-4c8c-ac8a-17f8b2e065a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ee8cdeb-abe3-489a-b1c8-2ec220a660f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User menu'])[1]/preceding::span[1]</value>
+      <webElementGuid>0ef9c104-4b12-4184-9e27-25880aed1519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Messages']/parent::*</value>
+      <webElementGuid>ab42bea0-f2e9-4c57-90e3-586d64265141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>d38add42-4f62-4f46-b126-7ecbe31f9d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Messages' or . = 'Messages')]</value>
+      <webElementGuid>6a638c29-2b4e-4eaf-a8f4-6751529998a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

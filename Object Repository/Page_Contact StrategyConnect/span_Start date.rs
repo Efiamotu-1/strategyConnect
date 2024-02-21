@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start date</name>
+   <tag></tag>
+   <elementGuidId>1f53f560-64cb-4975-bd47-ca36b4fcd31c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.disabled-input-span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f32d971e-0be0-4074-8a55-1e5d6214b43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>disabled-input-span</value>
+      <webElementGuid>92ce2001-58c5-406d-8539-6ee5be2a28c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start date</value>
+      <webElementGuid>8d31f1a1-5ba4-4bdc-a35d-852210d3ef9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-8 cols-lg-8&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;sri-form-fg&quot;]/div[@class=&quot;w-50 vt-input-cont  custom-input-container  empty name_project_start_date type_date&quot;]/div[@class=&quot;ci-wrap&quot;]/div[@class=&quot;ci-input&quot;]/div[1]/span[@class=&quot;disabled-input-span&quot;]</value>
+      <webElementGuid>513f144d-3b57-4b5f-8e9d-a10ba9b3b0f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>1c9685ab-5a29-4cf3-b94f-6d93d43e471b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Start Date'])[1]/following::span[1]</value>
+      <webElementGuid>4a386603-25e2-4567-a9b3-04feedbce5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title of Project'])[1]/following::span[1]</value>
+      <webElementGuid>05265052-8491-400d-937d-958b90eea976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project End date'])[1]/preceding::span[1]</value>
+      <webElementGuid>b644e268-2ae0-4cb4-91bd-0ea5465fe032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1f3f1c6-8e71-4fb2-bc52-1852d7e60353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start date']/parent::*</value>
+      <webElementGuid>53e69fd2-ace4-434d-81c2-81df1b1e2daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>f1fe0f5a-e85d-4cf2-8ab4-2948b20c5034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start date' or . = 'Start date')]</value>
+      <webElementGuid>a9add787-6004-45b8-9a62-99e5b0ee4a1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

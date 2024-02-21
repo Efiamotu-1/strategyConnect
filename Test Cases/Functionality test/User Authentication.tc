@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Authentication</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>7317eb25-14b4-485f-9455-280609518c98</testCaseGuid>
+</TestCaseEntity>

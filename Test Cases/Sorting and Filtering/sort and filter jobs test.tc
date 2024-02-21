@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>sort and filter jobs test</name>
+   <tag>@sort&amp;filter</tag>
+   <comment></comment>
+   <testCaseGuid>ad8e443e-05de-49e7-a82b-98788649aeb8</testCaseGuid>
+</TestCaseEntity>

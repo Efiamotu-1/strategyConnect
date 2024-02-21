@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>027f4858-e5f4-4cbc-b6fb-7bc9bdc78a2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3074d79a-b557-494c-8e08-f0a7a8dac23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>275b4531-4475-490b-9bba-13acebfea8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-8 cols-lg-8&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;sri-form-fg&quot;]/div[@class=&quot;vt-input-cont   filled name_consultants type_inline_list&quot;]/div[@class=&quot;ci-wrap&quot;]/div[@class=&quot;ci-input&quot;]/div[@class=&quot;list-input-container&quot;]/div[@class=&quot;added-items&quot;]/div[@class=&quot;active-listitem-form&quot;]/div[2]/div[1]/button[1]</value>
+      <webElementGuid>b994944e-6585-44d8-89fc-0c4fed5b21be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>159a8037-9882-4aec-98c5-660dd238c699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills Required'])[1]/following::button[1]</value>
+      <webElementGuid>8f9e4880-5323-481e-8f0a-fa2aa48fe53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[1]/following::button[1]</value>
+      <webElementGuid>4f4a2024-ac1b-4631-9b9f-f41679a675a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go Back'])[1]/preceding::button[1]</value>
+      <webElementGuid>278db436-827a-4634-adac-f2966811a385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::button[2]</value>
+      <webElementGuid>35c7bc72-ea72-402b-ac16-c39b8b8955f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>eb04464b-0624-46b1-af99-3b65353abf75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f50dd7f3-c357-4114-b137-59ea12ba9eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>feaa05c2-9037-4a62-a239-d401c1ada692</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
