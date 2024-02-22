@@ -6,12 +6,12 @@
    <elementGuidId>3b0ce885-f565-4f75-b705-5dbfff353e06</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(2) > div.nav-cont > h5</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div[2]/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.nav-cont > h5</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h5</value>
-      <webElementGuid>95417240-c487-428f-833c-c3c38d1b5239</webElementGuid>
+      <webElementGuid>51bdc47e-2c04-4c59-a10b-cc2ce5e55142</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Resources</value>
-      <webElementGuid>ecb5992b-b8a2-4aca-b682-0f514128d8de</webElementGuid>
+      <webElementGuid>dc74c70d-ba36-47a2-807c-56340965fb4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[2]/div[@class=&quot;nav-cont&quot;]/h5[1]</value>
-      <webElementGuid>e4a0f26b-ecd1-46e8-8e8a-add2abaac6ad</webElementGuid>
+      <webElementGuid>5b9ef063-9c69-4a21-a24e-dbeb28dcd29d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div[2]/div/h5</value>
-      <webElementGuid>daa177f7-41a1-4ee7-904b-a1e590c085a0</webElementGuid>
+      <webElementGuid>e34dafb1-1e4b-468a-bda8-daf67b903f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Join As Consultant'])[1]/following::h5[1]</value>
-      <webElementGuid>d56fae13-566e-4b26-bded-e6c5437452f0</webElementGuid>
+      <webElementGuid>6103f9a8-842e-4f6f-8d89-f54bd6b6487b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::h5[1]</value>
-      <webElementGuid>bf9100dd-baf4-4583-8220-7c38c25fcb2a</webElementGuid>
+      <webElementGuid>86b9dc6d-d598-4160-adf7-901d8704ab80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Studies'])[1]/preceding::h5[1]</value>
-      <webElementGuid>862e9ac1-585e-4d6f-854e-08936c16cd79</webElementGuid>
+      <webElementGuid>9d650ab1-65c7-4fb8-822f-854264f05173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::h5[1]</value>
-      <webElementGuid>8faa0b56-4732-43dc-8f86-2c6691745c50</webElementGuid>
+      <webElementGuid>36f0dc38-0cbe-415b-84e5-ef6c33578c86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Resources']/parent::*</value>
-      <webElementGuid>f37999ae-0262-45f7-b9ad-237f2ad5069c</webElementGuid>
+      <webElementGuid>aa0543dc-8372-4fc2-8b88-abd5e7713205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h5</value>
-      <webElementGuid>5a1ba7fe-adef-4a1f-bea4-26768facdaa0</webElementGuid>
+      <webElementGuid>b109d6c4-d989-4cf4-a00a-4c923ef4ae76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h5[(text() = 'Resources' or . = 'Resources')]</value>
-      <webElementGuid>b3ec871a-db39-4a99-9522-d79fe2257cbe</webElementGuid>
+      <webElementGuid>c44f85d3-2e42-4fdb-97bb-41cf28f29d0b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

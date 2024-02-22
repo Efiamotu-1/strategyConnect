@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Financial Modeling</name>
+   <tag></tag>
+   <elementGuidId>1c0775f9-56ee-4602-a931-df38186ca025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[13]/div/div/div[3]/div/a[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47b5ea75-6ab9-4340-9572-1bd10e3b853d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>6e4944f4-43a3-42f7-bc82-f2553db21f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Financial Modeling</value>
+      <webElementGuid>4475fa58-da64-4e2e-b3b5-28f256539999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[13]/div[@class=&quot;visible-only-desktop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-undefined col-md-undefined cols-lg-undefined&quot;]/div[1]/a[5]</value>
+      <webElementGuid>8ee90401-bc3d-41c2-9f6e-6cd4a1fb4480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[13]/div/div/div[3]/div/a[5]</value>
+      <webElementGuid>424b44fb-82c9-437b-a1eb-276790d068ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Financial Modeling')]</value>
+      <webElementGuid>769b1b50-aa8e-464f-b617-2a7a053a51b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go-To-Market Strategy'])[2]/following::a[1]</value>
+      <webElementGuid>2df2d1ab-b8d6-41a4-8d40-4ba8c5fd074d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investor Presentation'])[2]/following::a[2]</value>
+      <webElementGuid>944e80c0-e7fd-466a-a4c5-85625351e771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UI/UX Audit Services'])[2]/preceding::a[1]</value>
+      <webElementGuid>3cbf2329-252f-4157-a696-304e5e711f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study'])[1]/preceding::a[2]</value>
+      <webElementGuid>0b1ef1b7-95d4-473b-8d20-43e4f74b0587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[27]</value>
+      <webElementGuid>c53a84d3-fed7-4c1a-9bd2-4c9ff2534509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[5]</value>
+      <webElementGuid>6f2ac680-960b-45fc-9b75-1e187cf7225a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'Financial Modeling' or . = 'Financial Modeling')]</value>
+      <webElementGuid>3fdfb4a1-321b-4aca-9b5e-8b51ceb6b7cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

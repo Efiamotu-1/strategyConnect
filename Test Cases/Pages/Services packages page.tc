@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Services packages page</name>
+   <tag>@serv</tag>
+   <comment></comment>
+   <testCaseGuid>af715cac-5efa-4e10-aa1a-95b077ab3ec8</testCaseGuid>
+</TestCaseEntity>

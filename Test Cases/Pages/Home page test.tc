@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Home page test</name>
+   <tag>@home</tag>
+   <comment></comment>
+   <testCaseGuid>b6254c00-d848-4f8e-b7b0-4ee1fd8bed7d</testCaseGuid>
+</TestCaseEntity>

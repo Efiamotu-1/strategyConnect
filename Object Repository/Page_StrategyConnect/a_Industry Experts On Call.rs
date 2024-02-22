@@ -6,12 +6,11 @@
    <elementGuidId>2397c4d8-3735-46de-a109-552d6334a98b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>02cb28ee-6e31-4086-9a44-63dd58a858d7</webElementGuid>
+      <webElementGuid>26f5fbb4-7365-443a-a30a-ed49c450edf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-sub-menu</value>
-      <webElementGuid>f9c3c29b-aca9-42eb-934b-78ca7df26a63</webElementGuid>
+      <webElementGuid>908dc550-665a-4344-b31d-f4119a6f1e83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/industry-experts</value>
-      <webElementGuid>bee9a5fb-bcbb-474c-971e-de8299fcc5ab</webElementGuid>
+      <webElementGuid>4bf378f7-c847-41ff-adcf-387edb13e1cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Industry Experts On Call</value>
-      <webElementGuid>753abc16-53e5-4cf5-8593-bf4066ad8acc</webElementGuid>
+      <webElementGuid>8d26cab1-7f36-4834-9e38-68ed9ec6c7f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[1]/div[@class=&quot;nav-cont&quot;]/div[@class=&quot;nav-dropdown&quot;]/a[@class=&quot;nav-sub-menu&quot;]</value>
-      <webElementGuid>c2182061-86fb-4a4a-861f-0b90ffe8b396</webElementGuid>
+      <webElementGuid>317ef8ee-2002-4fa2-8b7c-0dfa626cf905</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a[3]</value>
-      <webElementGuid>9e216671-3d26-4d4c-903c-94e6edfa92af</webElementGuid>
+      <webElementGuid>47a1a1f5-a9c5-4a41-bdf2-9421a1a23ec6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Industry Experts On Call')]</value>
-      <webElementGuid>63cb2f15-a206-4fcf-a906-6f77ae2bf533</webElementGuid>
+      <webElementGuid>4a2e0cfa-680a-4fd0-9d17-39bb9c62ca12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Team On Demand'])[1]/following::a[1]</value>
-      <webElementGuid>a7536aa6-8dba-456d-a2ff-8ee97c2decc1</webElementGuid>
+      <webElementGuid>406004be-85e5-48a1-9567-4605064619ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Package'])[1]/following::a[2]</value>
-      <webElementGuid>0cdd6212-3dd9-4616-a127-e4f8bde78a50</webElementGuid>
+      <webElementGuid>cf50c0cc-15a2-45fc-b83d-c1908041220c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[1]</value>
-      <webElementGuid>a2f5c8d5-f985-424a-925b-77efe3b2451f</webElementGuid>
+      <webElementGuid>2e23a112-3427-4b38-8cf9-0352326621fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Join As Consultant'])[1]/preceding::a[2]</value>
-      <webElementGuid>2e2f433c-45b2-4802-82fb-88723376534d</webElementGuid>
+      <webElementGuid>84b65ba5-b8c7-45bb-ba61-796b761b6c6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Industry Experts On Call']/parent::*</value>
-      <webElementGuid>5d76e171-60a6-4fa1-9a89-c34b3b594454</webElementGuid>
+      <webElementGuid>21d910af-8314-4c3c-8a99-c8834de43ade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/industry-experts')]</value>
-      <webElementGuid>c203b13f-43db-4ad5-8ba5-3587b02fa545</webElementGuid>
+      <webElementGuid>94810331-9e9e-43b5-94a5-98f77d8a45a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[3]</value>
-      <webElementGuid>3016d851-8c5a-417d-93f4-18ed9c03d6b8</webElementGuid>
+      <webElementGuid>b28ffde4-0267-49c2-88bd-1f233ec1fa1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/industry-experts' and (text() = 'Industry Experts On Call' or . = 'Industry Experts On Call')]</value>
-      <webElementGuid>907e5a37-8617-4752-9a8b-ca92c37d0070</webElementGuid>
+      <webElementGuid>02e3d091-d8e2-49b0-9265-e08272f3ba42</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

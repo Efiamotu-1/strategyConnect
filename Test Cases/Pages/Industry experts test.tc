@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Industry experts test</name>
+   <tag>@industry</tag>
+   <comment></comment>
+   <testCaseGuid>fbba48d5-fab2-420b-b3c2-e97a209f439e</testCaseGuid>
+</TestCaseEntity>

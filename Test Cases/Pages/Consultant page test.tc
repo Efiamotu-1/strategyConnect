@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Consultant page test</name>
+   <tag>@consult</tag>
+   <comment></comment>
+   <testCaseGuid>648c74f3-d7ee-40d4-a14c-4f82b0a25b59</testCaseGuid>
+</TestCaseEntity>

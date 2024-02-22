@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Contact Us Now</name>
+   <tag></tag>
+   <elementGuidId>427ebb91-5275-4845-9bd8-fa05d82a53d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div[7]/div/div/div/a/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(7) > div.row > div.col-sm-12.col-md-6.cols-lg-6 > div > a > div > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24f9e035-a010-4d38-88ec-a6f47d74ce69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us Now</value>
+      <webElementGuid>852faf19-c245-44e6-b578-4fb8bd1a76b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[2]/div[7]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6 cols-lg-6&quot;]/div[1]/a[1]/div[1]/button[1]</value>
+      <webElementGuid>ad9f62a5-21e2-42c1-83a3-e8135e3a77f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div[7]/div/div/div/a/div/button</value>
+      <webElementGuid>fee41e40-b4b7-4505-8b40-494501dd25d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get in touch'])[1]/following::button[1]</value>
+      <webElementGuid>993ca9ec-98e9-4acf-885c-c8c7992e509d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn about our contributions to global brands.'])[1]/preceding::button[1]</value>
+      <webElementGuid>207f44ac-8a80-4a29-bb0d-a406adaf03a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innovating Bioacoustic Technology to Enhance Environmental Conservation Efforts'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e0c1a1d-0982-4ae4-9585-4173d024acb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us Now']/parent::*</value>
+      <webElementGuid>7ab529e8-a25a-46d9-84c3-cd05bed2dde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/a/div/button</value>
+      <webElementGuid>ccf6148a-9a11-4a9b-836f-3fdbdc75bd24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Contact Us Now' or . = 'Contact Us Now')]</value>
+      <webElementGuid>14f570f8-ee78-4b6c-a1ae-34031c0c6540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[10]/div/div/div/div/a/div/button</value>
+      <webElementGuid>341af5c4-fa79-459d-971e-999de281c187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>b89dd284-ee2a-43e5-afdb-24ba47585615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::button[1]</value>
+      <webElementGuid>bbf0848c-d8c9-4648-9ba4-64d2b8428428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/button</value>
+      <webElementGuid>38e10a40-7fc6-485b-958a-7e51e23e2917</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

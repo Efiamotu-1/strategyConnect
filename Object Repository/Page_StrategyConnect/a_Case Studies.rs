@@ -6,12 +6,12 @@
    <elementGuidId>9f2d3762-b54d-440a-958f-002b3c595ab7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(2) > div.nav-cont > div.nav-dropdown > a.nav-sub-menu</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.nav-cont > div.nav-dropdown > a.nav-sub-menu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7562b3f1-26a7-4d1f-b51e-2a89e8f17c3e</webElementGuid>
+      <webElementGuid>87c83a1f-a65a-4d92-b175-5c6ede181fac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-sub-menu</value>
-      <webElementGuid>aa03f6a4-9bfb-4202-95ef-d91345efe880</webElementGuid>
+      <webElementGuid>cc215399-075a-417e-85d7-112f859adf95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/case-studies</value>
-      <webElementGuid>55dd43dc-e748-4607-9d57-19bd1415c2db</webElementGuid>
+      <webElementGuid>b4bc28c0-67d5-4015-a289-850378ad3425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Case Studies</value>
-      <webElementGuid>63a539a4-936c-428f-989b-627b06cea97f</webElementGuid>
+      <webElementGuid>58e6936d-257d-4a08-a62c-49971166c2a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/div[2]/div[@class=&quot;nav-cont&quot;]/div[@class=&quot;nav-dropdown&quot;]/a[@class=&quot;nav-sub-menu&quot;]</value>
-      <webElementGuid>1b8a4218-905a-47b1-9ffb-2cdaba46a495</webElementGuid>
+      <webElementGuid>b22fe78f-2609-4f10-ae3b-5bbe5661ee49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/a</value>
-      <webElementGuid>f9561601-8029-4e46-8381-1aff5c17ba60</webElementGuid>
+      <webElementGuid>8122abc4-e286-40b2-8eaa-fd30619a5671</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Case Studies')]</value>
-      <webElementGuid>18ee8cc5-71dc-47b4-be0f-61e9ca9d2500</webElementGuid>
+      <webElementGuid>945afd6e-395e-4b09-aa4e-058153051cfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::a[1]</value>
-      <webElementGuid>e5854e4c-6678-4cd2-8702-37fea10a55cd</webElementGuid>
+      <webElementGuid>1646fde7-9622-428c-9196-eaaec1a91d3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Join As Consultant'])[1]/following::a[1]</value>
-      <webElementGuid>35014051-2415-4dbd-90f3-058fa85da6a6</webElementGuid>
+      <webElementGuid>bbe31899-fb36-48a7-a931-4c4f56cbe02f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[1]</value>
-      <webElementGuid>2f0e8a16-7319-47d8-bcfd-b8fcecb2dcae</webElementGuid>
+      <webElementGuid>8b664341-8099-4942-8f28-ba1a69ba790d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started'])[1]/preceding::a[2]</value>
-      <webElementGuid>e6d4f59f-e907-46c0-8000-41d2f0f72e66</webElementGuid>
+      <webElementGuid>b0e4c6e3-59b4-4fc1-b6f7-f6dc9e7faa0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Case Studies']/parent::*</value>
-      <webElementGuid>0b73ad61-0b53-4fa4-a0be-dfbb96d24768</webElementGuid>
+      <webElementGuid>b25cc8a2-3f6b-47c8-9e6d-384d5764c53d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/case-studies')]</value>
-      <webElementGuid>c77191ec-c047-435e-bc07-70cdce1345bd</webElementGuid>
+      <webElementGuid>53b6f349-be4f-44ce-bd0e-c696bc54529d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/a</value>
-      <webElementGuid>652fed30-27d5-4bd5-aee7-5bc4d778548b</webElementGuid>
+      <webElementGuid>722af6eb-3cca-4ebd-a124-8ede51102ad4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/case-studies' and (text() = 'Case Studies' or . = 'Case Studies')]</value>
-      <webElementGuid>9bdf2810-a284-4f9e-a86e-a358892d4aeb</webElementGuid>
+      <webElementGuid>6240f312-776d-4688-a178-39a822583cef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

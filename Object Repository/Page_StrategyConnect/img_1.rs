@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>29bd2634-c7bd-40b6-a82c-e84f03b5b48c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[13]/div/div/div/div/div[2]/div/a/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-6.col-sm-6.col-md-3.cols-lg-3 > div > div:nth-of-type(2) > div > a > div > div.img-cont.img-loaded > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9ecdd420-7a5b-4f97-bebf-9189b2e82094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ac.wbcdn.in/wbac-main/erp/37/19ih2d-mdilinkedin.svg</value>
+      <webElementGuid>734d8e28-b574-4847-91fe-e31f74a8eb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[13]/div[@class=&quot;visible-only-desktop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-6 col-md-3 cols-lg-3&quot;]/div[1]/div[2]/div[1]/a[1]/div[1]/div[@class=&quot;img-cont  img-loaded&quot;]/img[1]</value>
+      <webElementGuid>448769f2-5938-4985-b7e3-7c667728561f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[13]/div/div/div/div/div[2]/div/a/div/div/img</value>
+      <webElementGuid>293a5168-8a51-4fe3-b223-e3c1950716ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://ac.wbcdn.in/wbac-main/erp/37/19ih2d-mdilinkedin.svg')]</value>
+      <webElementGuid>739f0e73-402d-4539-8366-a3f06f885910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div/div[2]/div/a/div/div/img</value>
+      <webElementGuid>90c13e86-7e8d-4c28-b172-be16b694cfe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ac.wbcdn.in/wbac-main/erp/37/19ih2d-mdilinkedin.svg']</value>
+      <webElementGuid>2c69b657-2ef4-4b3f-aa14-ebec2f3cfa0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

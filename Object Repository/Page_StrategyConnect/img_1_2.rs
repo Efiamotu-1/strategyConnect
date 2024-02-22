@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>099b6a0a-6db7-4868-988d-901485092a0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[13]/div/div/div/div/div[2]/div[2]/a/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > a > div > div.img-cont.img-loaded > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>20c5f296-140a-4572-b345-808e98ecdade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ac.wbcdn.in/wbac-main/erp/37/19l2p9-riyoutubefill.svg</value>
+      <webElementGuid>b523db53-61cd-4516-9d2c-eda7b6418e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[13]/div[@class=&quot;visible-only-desktop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-6 col-md-3 cols-lg-3&quot;]/div[1]/div[2]/div[2]/a[1]/div[1]/div[@class=&quot;img-cont  img-loaded&quot;]/img[1]</value>
+      <webElementGuid>f913ab05-2f17-474f-bc79-fcb3c55f64cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[13]/div/div/div/div/div[2]/div[2]/a/div/div/img</value>
+      <webElementGuid>5a32817f-c928-4ca1-9e3e-d150943a344a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://ac.wbcdn.in/wbac-main/erp/37/19l2p9-riyoutubefill.svg')]</value>
+      <webElementGuid>c44929bc-6333-491a-bebc-8381885483c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/div/img</value>
+      <webElementGuid>e270d283-8968-44ba-b1a2-12fbf78db057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ac.wbcdn.in/wbac-main/erp/37/19l2p9-riyoutubefill.svg']</value>
+      <webElementGuid>cbbf3d6c-a022-4f0a-b483-696fdcf1d056</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

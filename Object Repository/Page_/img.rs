@@ -6,12 +6,12 @@
    <elementGuidId>49d5b12a-6a04-466a-b0c2-8295ccffe149</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img</value>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div/div/div[2]/div/div/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/a/div/div/img</value>
+         <key>CSS</key>
+         <value>div.col-sm-12.col-md-6.cols-lg-6 > div > div.img-cont.img-loaded > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,111 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>802dfc3f-846d-4f49-af1f-2d9fcc60f548</webElementGuid>
+      <webElementGuid>08f0a201-ef68-4045-a685-a9aaaa77121d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://ac.wbcdn.in/wbac-main/erp/37/199k4o-Logo.svg</value>
-      <webElementGuid>a22c755b-db0e-4623-b903-463331f1c3af</webElementGuid>
+      <value>https://ac.wbcdn.in/cache/erp/37/1kb8cp-Group1399_w450_.png</value>
+      <webElementGuid>b856220c-7357-4d9c-8f99-0d9e5a2b514b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[1]/a[1]/div[1]/div[@class=&quot;img-cont  img-loaded&quot;]/img[1]</value>
-      <webElementGuid>7dec05b0-a515-438b-97bb-388495ddbaf4</webElementGuid>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-6 cols-lg-6&quot;]/div[1]/div[@class=&quot;img-cont  img-loaded&quot;]/img[1]</value>
+      <webElementGuid>beda4923-63f6-4d45-8fe8-d1f39ab0bef6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[2]/div/div/div[2]/div/div/img</value>
+      <webElementGuid>a8a6b675-631c-40b6-b524-58ede734f436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://ac.wbcdn.in/cache/erp/37/1kb8cp-Group1399_w450_.png')]</value>
+      <webElementGuid>06a9048d-6c30-4f36-892c-50f938d1996d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/img</value>
+      <webElementGuid>ab854ff6-3e47-4aac-95a3-cef50752040d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ac.wbcdn.in/cache/erp/37/1kb8cp-Group1399_w450_.png']</value>
+      <webElementGuid>1224f4e9-c999-4d28-97dc-441452c5b3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://ac.wbcdn.in/cache/erp/37/1k1odc-Group1396_w450_.png')]</value>
+      <webElementGuid>2d06e153-7542-4f68-892b-fca9ed5843de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ac.wbcdn.in/cache/erp/37/1k1odc-Group1396_w450_.png']</value>
+      <webElementGuid>2ac24b5b-adbf-4a6a-86f4-7fcf4e5e4da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[3]/div/div/div[2]/div/div/img</value>
+      <webElementGuid>8eb11d4b-c5d6-4188-853f-0a8371ca7729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://ac.wbcdn.in/cache/erp/37/1m8mup-Frame3234921_w450,h501_.png')]</value>
+      <webElementGuid>4333cc14-4838-4233-a013-9107ae2e4d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/img</value>
+      <webElementGuid>9a8afa4e-48ae-49a3-99df-73fc265d2782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ac.wbcdn.in/cache/erp/37/1m8mup-Frame3234921_w450,h501_.png']</value>
+      <webElementGuid>e9df978c-c4bd-47f2-ab9c-3429f0bd1ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div/a/div/div/img</value>
-      <webElementGuid>aab0f068-ef3e-4e9d-aa9b-6baeeb7416c7</webElementGuid>
+      <webElementGuid>dcb7fa1c-706b-4e2f-9e39-4e77985459da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +134,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://ac.wbcdn.in/wbac-main/erp/37/199k4o-Logo.svg')]</value>
-      <webElementGuid>6e2d4cc3-bcf7-4363-8a8e-7de6413cc06d</webElementGuid>
+      <webElementGuid>2ba3af94-66b6-47ed-a007-d9faca9d0e08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>1c39beda-5971-46f4-8b0f-f71d1d125a4f</webElementGuid>
+      <webElementGuid>7b5d6e86-d5d1-41d7-87ee-19bc42aec590</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://ac.wbcdn.in/wbac-main/erp/37/199k4o-Logo.svg']</value>
-      <webElementGuid>9efaec4a-a547-4ee0-ae19-30997aed4bfb</webElementGuid>
+      <webElementGuid>189684aa-a1fb-4dbb-aa48-097faf5f923b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

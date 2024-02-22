@@ -6,12 +6,12 @@
    <elementGuidId>fcecb0da-62f2-43be-8758-a4f0c75c0a66</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(2) > div > a</value>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[11]/div/div/div[2]/div/a[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='wbos-app']/div/div/div[2]/div/div/div/div/div[2]/div/a</value>
+         <key>CSS</key>
+         <value>div.col-sm-undefined.col-md-undefined.cols-lg-undefined > div > a:nth-of-type(3)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d750264e-457d-4fe4-b55f-6993e3dc4af4</webElementGuid>
+      <webElementGuid>08c5607e-6d60-4b14-9c82-eca775eea458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/contact-us</value>
-      <webElementGuid>d8ae5a9f-05be-4566-98a8-ad756a7b3580</webElementGuid>
+      <webElementGuid>c626d3ba-996a-4225-b763-76ec2622d335</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Contact Us</value>
-      <webElementGuid>56081227-2106-4223-8701-2d269797d0ef</webElementGuid>
+      <webElementGuid>6f678901-cf7a-4878-be4a-d458d0c3d59c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[1]/div[1]/div[1]/div[@class=&quot;visible-only-desktop&quot;]/div[2]/div[1]/a[1]</value>
-      <webElementGuid>3e6b5c97-0a7a-49b5-8378-f7d941f14509</webElementGuid>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[11]/div[@class=&quot;visible-only-desktop&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-undefined col-md-undefined cols-lg-undefined&quot;]/div[1]/a[3]</value>
+      <webElementGuid>55cf6f78-dc02-4614-be0b-be1a8095b3c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[11]/div/div/div[2]/div/a[3]</value>
+      <webElementGuid>54762810-3a1b-4f86-97cb-d19003bb2bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Contact Us')])[2]</value>
+      <webElementGuid>f39a0ccf-6e5b-4ffa-8bd0-2fd9fcdbc88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/following::a[1]</value>
+      <webElementGuid>54aa0786-322f-40ed-8b61-2a4fabb0dd30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>2ea552ae-18f4-4089-b4d9-dac29b204fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join as Consultant'])[1]/preceding::a[1]</value>
+      <webElementGuid>5e78cb19-599a-41f2-8a04-844c9156ac4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onboard Talent'])[1]/preceding::a[2]</value>
+      <webElementGuid>a248060c-49a8-4498-91ee-a610ebe571df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/contact-us')])[3]</value>
+      <webElementGuid>dec31c89-cadd-48a5-98aa-631a3354675f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[3]</value>
+      <webElementGuid>d07a6dca-ac75-49fd-935a-552d6b882d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/contact-us' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>f094a0b9-0434-402f-b6b5-7781cc231014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -119,13 +191,5 @@
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/div/a</value>
       <webElementGuid>4210845a-e6d3-4f80-aeb2-412ec4b8317e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/contact-us' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
-      <webElementGuid>6bf86ded-0a2f-41b5-a792-b46005fac758</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

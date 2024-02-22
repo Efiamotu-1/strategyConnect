@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>3ecc5685-5735-463c-bb0e-b095026f4943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wbos-app']/div/div/div[2]/div[3]/div/div[2]/div/a/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.img-cont.rounded-img.img-loaded > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>60d38bff-6075-474a-badb-3fa7b3c55f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ac.wbcdn.in/cache/erp/37/67dp9-sideviewwomanusingtablet232149557251_w300,h874_.jpg</value>
+      <webElementGuid>a8dbb241-6f2f-452b-80f3-672dbb168214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wbos-app&quot;)/div[1]/div[@class=&quot;base wbos-lang-en&quot;]/div[2]/div[3]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-4 cols-lg-4&quot;]/a[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;img-cont rounded-img img-loaded&quot;]/img[1]</value>
+      <webElementGuid>0cebf6be-4fae-428c-b30d-219b2e0b9f9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wbos-app']/div/div/div[2]/div[3]/div/div[2]/div/a/div/div/div/div/div/img</value>
+      <webElementGuid>2e6bd8b3-f53b-438d-91d2-5aae5df021b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://ac.wbcdn.in/cache/erp/37/67dp9-sideviewwomanusingtablet232149557251_w300,h874_.jpg')]</value>
+      <webElementGuid>b0893d5c-c825-46b8-9d04-5c36b7a1b8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div/div/div/img</value>
+      <webElementGuid>c937ae76-8b31-4982-806d-5370e1c7a91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ac.wbcdn.in/cache/erp/37/67dp9-sideviewwomanusingtablet232149557251_w300,h874_.jpg']</value>
+      <webElementGuid>4f1b2c80-8ece-4508-8b73-bc2b113d3e1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Case studies page test</name>
+   <tag>@case</tag>
+   <comment></comment>
+   <testCaseGuid>d81bf3d9-3f85-4d71-a793-a2e8c201afc3</testCaseGuid>
+</TestCaseEntity>
